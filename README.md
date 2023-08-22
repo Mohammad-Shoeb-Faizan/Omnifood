@@ -41,4 +41,4 @@ Contributions are welcome. Please follow standard contributing guidelines.
 
 There are no tests to run for this project.
 
-For any questions or inquiries, please contact Kendayao at kendayao@gmail.com.
+For any questions or inquiries, please contact Mohammad Shoeb Faizan at shoebfaizan71@gmail.com.
