@@ -1,5 +1,5 @@
 # Food-Delivery
-![Omnifood](link-to-your-screenshot-or-image.png)
+![Omnifood](https://github.com/Mohammad-Shoeb-Faizan/Omnifood/blob/main/display.jpeg)
 
 ## Description
 
